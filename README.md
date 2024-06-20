@@ -3,14 +3,13 @@
 This project aims to create a mobile application that combines images taken from different angles to generate panoramic images. The project is developed using Qt and OpenCV libraries and can be run on the Android platform.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contributors](#contributors)
-- [License](#license)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 
@@ -62,18 +61,11 @@ This project is developed as a term project for the Android Programming course i
       <img src="screenshots/stitch_home_result.png"/>
    </p>
 
-## Development
+## Contributing
+We welcome contributions to improve this project. Here are some ways you can contribute:
 
-This project is still under development. The following tasks are in progress:
-
-- Performance improvements
-- Development of modular structures
-- Portability and platform support
-- Flexibility and extensibility
-
-## Contributors
-
-- **Osman Can AKSOY** - Project Owner - [GitHub Profile](https://github.com/osmancanaksoy)
+- **Report Bugs**: If you find a bug, please open an issue with detailed information.
+- **Submit Pull Requests**: If you have a fix or a new feature, submit a pull request. Please ensure your code follows the project's coding standards.
 
 ## License
 
