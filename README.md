@@ -41,7 +41,7 @@ This project is developed as a term project for the Android Programming course i
 2. Clone this repository:
     ```sh
     git clone https://github.com/osmancanaksoy/image-stitching-mobile-app.git
-    cd project-name
+    cd image-stitching-mobile-app
     ```
 3. Open the project with Qt Creator and build it for Android.
 
